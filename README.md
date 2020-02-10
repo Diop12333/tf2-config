@@ -1,13 +1,9 @@
 # tf2-config
-Steam Name:      Diop
+<b>Alias:</b>           Diop
 
-Version:         1.2
+<b>Version:</b>         1.2
 
-Created:         5/13/2019
-
-Last Updated:    2/10/2020
-
-Joined:          2015-12-18 19:29:53
+<b>Last Updated:</b>    2/10/2020
 
 # Change Log
 
