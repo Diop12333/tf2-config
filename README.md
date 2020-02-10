@@ -10,7 +10,7 @@
 ### 1.2
 - Moved Files to GitHub
 - Moved Config Description to "README.md"
-- Changed Description Text Order
+- Changed Description Text
 
 ### 1.1 
 - Optimization
