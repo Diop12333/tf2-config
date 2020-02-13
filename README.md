@@ -1,9 +1,9 @@
 # tf2-config
 <b>Alias:</b>           Diop
 
-<b>Version:</b>         1.2
+<b>Version:</b>         1.3
 
-<b>Last Updated:</b>    2/10/2020
+<b>Last Updated:</b>    2/13/2020
 
 # Change Log
 
