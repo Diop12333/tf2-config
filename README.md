@@ -1,11 +1,19 @@
 # tf2-config
 <b>Alias:</b>           Diop
 
-<b>Version:</b>         1.2
+<b>Version:</b>         1.3
 
-<b>Last Updated:</b>    2/10/2020
+<b>Last Updated:</b>    2/13/2020
 
 # Change Log
+
+### 1.3
+- Changed loadout bind to arrow keys
+- Added num pad to change classes
+- Fixed Medic bind to call ubers and fake ubers
+- Added a exec bindtoggle for competitive and casual
+- Fixed a bug where "slot3" was "solt3"
+- Removed general v bind for voicemenu
 
 ### 1.2
 - Moved Files to GitHub
