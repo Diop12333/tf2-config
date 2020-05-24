@@ -7,6 +7,11 @@
 
 # Change Log
 
+### 1.4
+- Added slots 1 through 10
+- Changed kill bind to voice Positive
+- Changed lastdisguise bind to voice Positive
+
 ### 1.3
 - Changed loadout bind to arrow keys
 - Added num pad to change classes
