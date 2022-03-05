@@ -1,11 +1,20 @@
 # tf2-config
 <b>Alias:</b>           Diop
 
-<b>Version:</b>         1.3
+<b>Version:</b>         1.5
 
-<b>Last Updated:</b>    5/24/2020
+<b>Last Updated:</b>    3/5/2022
 
 # Change Log
+
+### 1.5
+- Added minial viewmodel command to competitive.cfg
+- Changed viewmodel binds in dimitri_binds.cfg
+- Removed custom crosshairs from all class CFG files
+- Increased sensitivity in dimitri_config.cfg
+- Added dispenser bind to engineer.cfg
+- Removed ASCII chat bind art from medic.cfg
+- Increased slightly auto medic call threshold in medic.cfg
 
 ### 1.4
 - Added slots 1 through 10
