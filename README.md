@@ -9,6 +9,7 @@
 
 ### 1.5.1
 - Fixed engineer dispenser bind
+- Added engineer teleporter binds
 
 ### 1.5
 - Added minial viewmodel command to competitive.cfg
