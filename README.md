@@ -1,11 +1,14 @@
 # tf2-config
 <b>Alias:</b>           Diop
 
-<b>Version:</b>         1.5
+<b>Version:</b>         1.5.1
 
 <b>Last Updated:</b>    3/5/2022
 
 # Change Log
+
+### 1.5.1
+- Fixed engineer dispenser bind
 
 ### 1.5
 - Added minial viewmodel command to competitive.cfg
