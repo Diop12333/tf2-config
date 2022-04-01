@@ -1,11 +1,15 @@
 # tf2-config
 <b>Alias:</b>           Diop
 
-<b>Version:</b>         1.5.1
+<b>Version:</b>         1.5.2
 
-<b>Last Updated:</b>    3/5/2022
+<b>Last Updated:</b>    4/1/2022
 
 # Change Log
+
+### 1.5.2
+- Fixed scollwheel not changing weapons
+- Changed demoman voice bind
 
 ### 1.5.1
 - Fixed engineer dispenser bind
